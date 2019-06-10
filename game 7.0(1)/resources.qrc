@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/pictures">
+        <file>posi.png</file>
+        <file>bullet.png</file>
+        <file>grass.jpg</file>
+        <file>blood_1.png</file>
+        <file>wave_1.png</file>
+        <file>gold_1.png</file>
+        <file>enemy01.png</file>
+        <file>gold.png</file>
+        <file>tower1.png</file>
+        <file>tower2.png</file>
+        <file>tower3.png</file>
+        <file>power1.png</file>
+        <file>power2.png</file>
+    </qresource>
+</RCC>
